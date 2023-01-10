@@ -1,0 +1,21 @@
+
+
+.login_title {
+    color:white;
+    text-align: center;
+    padding-top: 19rem;
+    opacity: 80%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.login_form{
+    max-width: 400px;
+    display: block;
+    margin: auto;
+    opacity: 60%;
+}
+
+
+footer {
+    opacity: 60%;
+}
